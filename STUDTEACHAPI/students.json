@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "dibyam",
+    "Id": 1,
+    "Class": "Class1",
+    "Percentage": 70.0,
+    "Grade": "C"
+  },
+  {
+    "Name": "hello",
+    "Id": 2,
+    "Class": "Class2",
+    "Percentage": 70.0,
+    "Grade": "C"
+  }
+]
